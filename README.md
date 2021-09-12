@@ -46,7 +46,7 @@ clonar o repositório, abrir o projeto e configurar o acesso ao PostgreSQL no ar
 ```
 #### Delete states
 ```http
-  GET /api/states/:id
+  DELETE /api/states/:id
 ```
 
 | Parameter | Type     | Description                |
